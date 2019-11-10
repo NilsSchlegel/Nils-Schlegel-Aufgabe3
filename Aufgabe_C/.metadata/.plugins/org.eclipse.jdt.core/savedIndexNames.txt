@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/schlegel/Desktop/löschen/Nils_Schlegel_SMSB5_LP_Software/Aufgabe_C/.metadata/.plugins/org.eclipse.jdt.core
+3128207647.index
+612747177.index
